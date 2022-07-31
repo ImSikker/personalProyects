@@ -1,6 +1,6 @@
 body
 {
-    color: rgb(101, 224, 240);
+    color: rgb(68, 121, 66);
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -12,7 +12,7 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid rgb(137, 211, 161);
+    border: 1px solid rgb(115, 228, 130);
     margin: 0 auto;
 }
 
